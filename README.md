@@ -4,4 +4,5 @@ In this project I have created a code that helps track your face using OpenCV an
 
 #### The working of the project can be seen below.
 
+![Working GIF Loading](AutoPanning.gif)
 
